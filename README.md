@@ -3,7 +3,11 @@
 
 - 🧑🏾‍💻 I’m currently working on [🏗️ my portfolio website](mergik.tech)
 
+- 🎓 Studied Software Engineering at [ALX Africa](https://www.alxafrica.com/)
+
 - 🌱 I’m currently learning **Typescript in Next.JS**
+
+- 🆕 Latest project [Tubonge Chat App](https://tubonge-kipz.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [🚧 Under Construction](mergik.tech)
 
