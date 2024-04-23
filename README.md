@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Mergik Technologies Code Depo</h1>
+<h1 align="center">Welcome to Mergik Tech</h1>
 <h3 align="center">🔴🟢🔵🟠🟡🟣🟤⚫⚪</h3>
 
 - 🧑🏾‍💻 I’m currently working on [🏗️ my portfolio website](mergik.tech)
