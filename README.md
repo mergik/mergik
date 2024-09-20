@@ -3,13 +3,13 @@
 
 - 🎓 Studied Software Engineering at [ALX Africa](https://www.alxafrica.com/)
 
-- 🧑🏾‍💻 I’m currently working on [🏗️ my portfolio website](https://www.mergik.tech)
+- 🧑🏾‍💻 I’m currently working on [Metro Manor](https://github.com/larykip/hotel-booking-nextjs)
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 🆕 Latest project [Tubonge Chat App](https://tubonge-kipz.onrender.com/)
+- 🆕 Latest projects [Tubonge Chat App](https://tubonge-kipz.onrender.com/) | [ReactTube](https://github.com/mergik/youtube-homepage-react)
 
-- 👨‍💻 All of my projects are available at [🚧 Under Construction](https://www.mergik.tech)
+- 👨‍💻 Most of my projects are available at [Github Repo](https://github.com/mergik?tab=repositories)
 
 - 📫 How to reach me [🚧 Under Construction](https://www.mergik.tech/contact)
 
@@ -50,6 +50,7 @@
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" alt="bash" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=74402&format=png" alt="mongodb" width="40" height="40"/> </a>
@@ -57,9 +58,4 @@
 
 </p>
 
-
-
-
-
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mergik&label=Profile%20views&color=80ff00&style=plastic" alt="mergik" /> </p>
