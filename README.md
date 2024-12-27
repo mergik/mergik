@@ -11,11 +11,7 @@
 
 - 👨‍💻 Most of my projects are available at [Github Repo](https://github.com/mergik?tab=repositories)
 
-- 📫 How to reach me [🚧 Under Construction](https://www.mergik.tech/contact)
-
-- 📄 My experience [🚧 Under Construction](https://www.mergik.tech/resume)
-
-- 📝 Work with me [🚧 Under Construction](https://www.mergik.tech/hireme)
+- 📫 Learn more about me [Portfolio Website](https://www.mergik.tech/)
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergik&show_icons=true&theme=dark&title_color=4aa5ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="mergik" /></p>
 
