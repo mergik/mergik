@@ -3,13 +3,13 @@
 
 - 🎓 Studied Software Engineering at [ALX Africa](https://www.alxafrica.com/)
 
-- 🧑🏾‍💻 I’m currently working on [Metro Manor](https://github.com/larykip/hotel-booking-nextjs)
+- 🧑🏾‍💻 I’m currently working on an **exciting** unannounced open-source project
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Golang**
 
-- 🆕 Latest projects [Tubonge Chat App](https://tubonge-kipz.onrender.com/) | [ReactTube](https://github.com/mergik/youtube-homepage-react)
+- 🆕 Latest projects [Moon Arts Portfolio](https://moonarts.mergik.tech/) |  [Metro Manor](https://metro.mergik.tech/) | [Tubonge Chat App](https://tubonge-kipz.onrender.com/) | [ReactTube](https://github.com/mergik/youtube-homepage-react)
 
-- 👨‍💻 Most of my projects are available at [Github Repo](https://github.com/mergik?tab=repositories)
+- 👨‍💻 Most of my public projects are available in my [Github](https://github.com/mergik?tab=repositories)
 
 - 📫 Learn more about me [Portfolio Website](https://www.mergik.tech/)
 ---
@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mergiktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mergiktech" height="30" width="40" /></a>
+<a href="https://x.com/mergiktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mergiktech" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>
