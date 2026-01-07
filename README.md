@@ -39,6 +39,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=PZQVBAxaueDJ&format=png" alt="expressjs" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png" alt="Astro" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=qV-JzWYl9dzP&format=png" alt="django" width="40" height="40"/> </a>
 
 </p>
@@ -49,9 +50,11 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" alt="bash" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"> <img src="https://mintcdn.com/bun-1dd33a4e/fU8ET1hSpIaJ6oEr/logo/logo-with-wordmark-light.svg?fit=max&auto=format&n=fU8ET1hSpIaJ6oEr&q=85&s=6a50d79c62849b762491496b60a707f5" alt="bun" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=74402&format=png" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://sqlite.org/images/sqlite370_banner.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png" alt="postgresql" width="40" height="40"/> </a>
 
 </p>
 
