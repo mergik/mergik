@@ -13,10 +13,6 @@
 
 - 📫 Learn more about me [Portfolio Website](https://www.mergik.tech/)
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergik&show_icons=true&theme=dark&title_color=4aa5ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="mergik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mergik&show_icons=true&theme=dark&title_color=42a0ff&text_color=ffffff&locale=en" alt="mergik" /></p>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
